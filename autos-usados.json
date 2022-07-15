@@ -1,0 +1,58 @@
+[
+    {
+      "marca": "chevrolet",
+      "nombre": "pick up",
+      "combustible": "diesel",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/chevrolet-pickup.jpg" 
+    },
+    {
+      "marca": "fiat",
+      "nombre": "siena",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/fiat-siena.jpg" 
+    },
+    {
+      "marca": "peugeot",
+      "nombre": "partner",
+      "combustible": "GNC",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/peugeot-partner.jpg"
+    },
+    {
+      "marca": "chevrolet",
+      "nombre": "tracker",
+      "combustible": "GNC",
+      "transmision": "automático",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/chevrolet-tracker.jpg" 
+    },
+    {
+      "marca": "fiat",
+      "nombre": "argo",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/fiat-argo.jpg" 
+    },
+    {
+      "marca": "peugeot",
+      "nombre": "2008",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/peugeot-2008.jpg"
+    },
+    {
+      "marca": "renault",
+      "nombre": "sandero",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/renault-sandero.png"
+    },
+    {
+      "marca": "volkswagen",
+      "nombre": "gol",
+      "combustible": "GNC",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/usados/volkswagen-gol.jpg"
+    }
+]

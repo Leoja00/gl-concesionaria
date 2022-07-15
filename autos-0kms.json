@@ -1,0 +1,65 @@
+[
+    {
+      "marca": "chevrolet",
+      "nombre": "cruze",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/chevrolet-cruze.jpg" 
+    },
+    {
+      "marca": "chevrolet",
+      "nombre": "onix",
+      "combustible": "nafta",
+      "transmision": "automático",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/chevrolet-onix.jpg" 
+    },
+    {
+      "marca": "fiat",
+      "nombre": "cronos",
+      "combustible": "nafta",
+      "transmision": "automático",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/fiat-cronos.jpg" 
+    },
+    {
+      "marca": "fiat",
+      "nombre": "strada",
+      "combustible": "GNC",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/fiat-strada.jpg" 
+    },
+    {
+      "marca": "peugeot",
+      "nombre": "308",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/peugeot-308.jpg" 
+    },
+    {
+      "marca": "peugeot",
+      "nombre": "408",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/peugeot-408.jpg" 
+    },
+    {
+      "marca": "peugeot",
+      "nombre": "208",
+      "combustible": "nafta",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/peugeot-208.jpg" 
+    },
+    {
+      "marca": "renault",
+      "nombre": "alaskan",
+      "combustible": "diesel",
+      "transmision": "manual",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/renault-alaskan.jpg" 
+    },
+    {
+      "marca": "volkswagen",
+      "nombre": "amarok",
+      "combustible": "diesel",
+      "transmision": "automático",
+      "imagen": "https://ivan-lucero.github.io/GL-concesionaria/imgs/autos/nuevos/volkswagen-amarok.jpg" 
+    }
+]
